@@ -2133,7 +2133,8 @@
         ]
       },
       "visualStyle": "模型评测治理（冷白＋靛蓝＋警戒红）",
-      "styleFamily": "科技"
+      "styleFamily": "科技",
+      "imagePath": "outputs/tip-026-左否右是纠偏对照与底部验收条-PPT示意图.png"
     }
   ]
 }
