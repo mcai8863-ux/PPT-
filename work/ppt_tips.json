@@ -2248,7 +2248,8 @@
         ]
       },
       "visualStyle": "保险理赔作业流（米白＋松绿＋石板蓝）",
-      "styleFamily": "金融"
+      "styleFamily": "金融",
+      "imagePath": "outputs/tip-027-同任务双路径泳道-PPT示意图.png"
     }
   ]
 }
